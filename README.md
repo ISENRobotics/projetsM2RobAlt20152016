@@ -18,11 +18,11 @@ Le projet consiste à dresser un état de l'art sur les méthodes utilisées pou
 
 Les sujets abordés sont :
 * Méthodes de détection
- * azerty
- * tyuiop
+ *
+ * 
 * Méthodes d'interception
- * azerty
- * tyuiop
+ * Physique
+ * A distance
 
 ## Ethique et Robotique (A PRECISER) [Bib] [Q. Le Texier/A. Cosson]
 

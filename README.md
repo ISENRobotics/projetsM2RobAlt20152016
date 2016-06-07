@@ -35,3 +35,13 @@ Les sujets abordés sont :
  * point 2
   * azerty
   * tyuiop
+
+## Commande avancée pour le robot R2D2
+
+Le projet consiste à faire évolué les fonctionnalités du robot R2D2
+
+Sujets abordés:
+ * Régulation en vitesse et vitesse angulaire
+
+ * Application Android
+   * Ajout d'un stick pour l'envoi de commande en vitesse et vitesse angulaire

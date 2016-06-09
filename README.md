@@ -17,6 +17,8 @@
 Le projet consiste à dresser un état de l'art sur les méthodes utilisées pour intercepter un drône aérien.
 
 Les sujets abordés sont :
+* Etat de l'art
+
 * Méthodes de détection
  *
  * 

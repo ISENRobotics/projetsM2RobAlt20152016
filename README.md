@@ -51,8 +51,8 @@ Sujets abordés:
 ## Swarms Robotics. [Bib] [S.Belbeoch/A.Veillon]
 
  Le projet consiste à dresser un état de l'art sur la robotique en essaim dans un scénario défini.
-
- Les sujets abordés sont :
- * Etat de l'art sur les drones et essaim de drones.
- * Etat de l'art des algorithmes permettant la collaboration des drones entre eux
- * Etat de l'art des algorithmes permettant l'interception d'un drone ennemi sur une zone à protéger
+ 
+ I Abstract
+ II Etat de l'art (swarm/drone, l'un drone partie technologique, swarm partie algo -> combinaison des deux)
+ III Scénario, problématique, Condition, environnement...
+ IV Algorithmes qui répondent à la problématiques, pourquoi ces algo par rapport à d'autre, explication/justification des choix

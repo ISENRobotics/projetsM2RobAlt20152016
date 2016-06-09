@@ -26,17 +26,17 @@ Les sujets abordés sont :
  * Physique
  * A distance
 
-## Ethique et Robotique (A PRECISER) [Bib] [Q. Le Texier/A. Cosson]
+## Les robots humanoïdes sociaux du chercheur à l'utilisateur. [Bib] [Q. Texier/A. Cosson]
 
- Le projet consste à dresser un état de l'art sur les méthodes utilisées pour intercepter un drône aérien.
+ Le projet consiste à dresser un état de l'art sur l'utilisation actuelle des robots humanoïdes à vocation sociale et les avancées majeures pour que ces robots s'intègrent dans la société.
 
  Les sujets abordés sont :
- * point 1
-  * azerty
-  * tyuiop
- * point 2
-  * azerty
-  * tyuiop
+ * Etat de l'art des différents robots sociaux.
+  * L'utilité des robots sociaux et leur déploiement dans la société.
+  * L'anthropomorphisme chez les robots.
+ * Du chercheur à l'utilisateur, les nécessités actuelles et futures.
+  * Pourquoi et comment le robot social se doit de ressembler à un humain.
+  * L'intelligence artificielle, obligation liée à une autonomie grandissante. 
 
 ## Commande avancée pour le robot R2D2
 

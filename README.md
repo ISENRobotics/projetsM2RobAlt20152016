@@ -47,3 +47,12 @@ Sujets abordés:
 
  * Application Android
    * Ajout d'un stick pour l'envoi de commande en vitesse et vitesse angulaire
+
+## Swarms Robotics. [Bib] [S.Belbeoch/A.Veillon]
+
+ Le projet consiste à dresser un état de l'art sur la robotique en essaim dans un scénario défini.
+
+ Les sujets abordés sont :
+ * Etat de l'art sur les drones et essaim de drones.
+ * Etat de l'art des algorithmes permettant la collaboration des drones entre eux
+ * Etat de l'art des algorithmes permettant l'interception d'un drone ennemi sur une zone à protéger

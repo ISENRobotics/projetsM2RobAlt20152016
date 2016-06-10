@@ -2,7 +2,7 @@
 
 |Attribution|Type|Nom du projet|Remarques|
 |---|---|---|---|
-|Kerdoncuff|Biblio|Méthodes de neutralisation de drônes aériens||
+|Kerdoncuff|Biblio|Moyens techniques de neutralisation de drônes aériens||
 |Le Texier/Cosson|Bib|Ethique et Robotique(A PRECISER)||
 |Gourlaouen/Lamour|Tech|Modernisation du déplacement de robots dans une chaîne de production||
 |Quere/Lagadec|Tech|Simulation d'un essaim de robot avec MOOS et MOOS-Ivp||
@@ -18,9 +18,9 @@ Le projet consiste à dresser un état de l'art sur les méthodes utilisées pou
 
 Les sujets abordés sont :
 * Etat de l'art
-* Méthodes d'interception
- * Physique
- * A distance
+* Méthodes de neutralisation
+ * Destructives
+ * Non destructives
 
 ## Les robots humanoïdes sociaux du chercheur à l'utilisateur. [Bib] [Q. Texier/A. Cosson]
 

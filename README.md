@@ -52,3 +52,8 @@ Sujets abordés:
    II Etat de l'art (swarm/drone, l'un drone partie technologique, swarm partie algo -> combinaison des deux)
    III Scénario, problématique, Condition, environnement...
    IV Algorithmes qui répondent à la problématiques, pourquoi ces algo par rapport à d'autre, explication/justification des choix
+   *Feedback control
+   *MPC (model predictive controle) : 
+    *Decentralizaed nonlinear predictive control
+    *Linear MPC via Feedback Lineraization
+    
